@@ -1,3 +1,8 @@
 .venv
 .env
 __pycache__
+.idea
+third_party.txt
+query_classification_results
+query_classification_model
+query_classification_model.zip

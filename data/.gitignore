@@ -1,0 +1,4 @@
+*
+!.gitignore
+!uploaded_files
+!elasticsearch
